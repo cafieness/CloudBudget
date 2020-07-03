@@ -21,7 +21,7 @@
   min-height: 650px;
   margin: 0 auto;
   background-color:linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%);
-  background-image: url("/img/header-bg.jpg");
+  background-image: url("../img/header-bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -96,7 +96,7 @@ li{
   left: -3px;
   width: 32px;
   height: 32px;
-  background-image: url("/img/icon-flag.svg");
+  background-image: url("../img/icon-flag.svg");
 }
 .language-switch__select {
   position: relative;
@@ -321,13 +321,13 @@ li{
   right: 0;
 }
 .features__column1::before {
-  background-image: url("/img/features-card1.jpg");
+  background-image: url("../img/features-card1.jpg");
 }
 .features__column2::before {
-  background-image: url("/img/features-card2.jpg");
+  background-image: url("../img/features-card2.jpg");
 }
 .features__column3::before {
-  background-image: url("/img/features-card3.jpg");
+  background-image: url("../img/features-card3.jpg");
 }
 .features__column-block {
   position: relative;
@@ -405,28 +405,28 @@ li{
 .technology__column1::after {
   top: 70px;
   left: 88px;
-  background-image: url("/img/tech-icon-1.svg");
+  background-image: url("../img/tech-icon-1.svg");
   background-repeat: no-repeat;
 }
 .technology__column2::before {
   content: "02";
 }
 .technology__column2::after {
-  background-image: url("/img/tech-icon-2.svg");
+  background-image: url("../img/tech-icon-2.svg");
   background-repeat: no-repeat;
 }
 .technology__column3::before {
   content: "03";
 }
 .technology__column3::after {
-  background-image: url("/img/tech-icon-3.svg");
+  background-image: url("../img/tech-icon-3.svg");
   background-repeat: no-repeat;
 }
 .technology__column4::before {
   content: "04";
 }
 .technology__column4::after {
-  background-image: url("/img/tech-icon-4.svg");
+  background-image: url("../img/tech-icon-4.svg");
   background-repeat: no-repeat;
 }
 .technology__column:not(:last-child) {
@@ -500,7 +500,7 @@ li{
   left: 70px;
   width: 383px;
   height: 267px;
-  background-image: url("/img/screen-1.jpg");
+  background-image: url("../img/screen-1.jpg");
   background-position:center;
 }
 .screen__column2::before {
@@ -508,7 +508,7 @@ li{
   z-index: 1;
   width: 445px;
   height: 311px;
-  background-image: url("/img/screen-2.jpg");
+  background-image: url("../img/screen-2.jpg");
   background-position:center;
   cursor: pointer;
 }
@@ -522,7 +522,7 @@ li{
   left: 240px;
   width: 383px;
   height: 267px;
-  background-image: url("/img/screen-3.jpg");
+  background-image: url("../img/screen-3.jpg");
   background-position:center;
 }
 
@@ -595,7 +595,7 @@ li{
   z-index: -1;
   width: 14px;
   height: 14px;
-  background-image: url("/img/arrow-down.png");
+  background-image: url("../img/arrow-down.png");
   background-repeat: no-repeat;
   background-position: 0 0;
 }
